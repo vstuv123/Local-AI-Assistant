@@ -307,9 +307,7 @@ For every request, LangSmith records:
 
 Image:
 
-```text
-assets/screenshots/langsmith-trace.png
-```
+![LangSmith Trace](assets/screenshots/langsmith-trace.png)
 
 Shows:
 
