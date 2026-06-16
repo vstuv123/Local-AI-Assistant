@@ -98,9 +98,7 @@ LangSmith Observability
 
 Image:
 
-```text
-assets/screenshots/cli-chat.png
-```
+![CLI Chat Interface](assets/screenshots/cli-chat.png)
 
 Shows:
 
